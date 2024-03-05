@@ -1,4 +1,5 @@
 # Consultancy
+<img align="center" src="public/images/Screen.png" />
 
 Consultancy is a personal website built using Astro and TypeScript. It serves as a platform for providing web consulting services to clients.
 
