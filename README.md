@@ -17,20 +17,20 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
 
-   `git clone https://github.com/djneill/Consultancy.git`
+```git clone https://github.com/djneill/Consultancy.git```
 
 2. Navigate to the project directory:
 
-`cd Consultancy`
+```cd Consultancy```
 
 3. Install the dependencies:
 
-`npm install`
+```npm install```
 
 # Usage
 To start the development server, run the following command:
 
-`npm run dev`
+```npm run dev```
 
 Access the application in your browser at http://localhost:4321.
 
