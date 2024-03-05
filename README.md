@@ -36,7 +36,7 @@ Access the application in your browser at http://localhost:4321.
 
 # Folder Structure
 The project has the following folder structure:
-
+```
 Consultancy/
 │
 ├── src/                  # Source files
@@ -50,6 +50,7 @@ Consultancy/
 ├── astro.config.mjs      # Astro configuration file
 ├── package.json          # Project dependencies and scripts
 └── ...
+```
 
 # Contributing
 Contributions to the Consultancy project are welcome. If you find any bugs or want to suggest new features, please open an issue on GitHub. If you'd like to contribute code, please fork the repository, make your changes, and submit a pull request.
